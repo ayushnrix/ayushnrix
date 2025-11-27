@@ -1,17 +1,10 @@
 
 <p align="center"><strong>
-  Full-stack Engineer (JS) • AI/ML Enthusiast</strong><br>Currently working as FE Team Lead @ <a href="https://thebigsolutions.com/">The Big Solutions</a> / <a href="https://mypay.com.np/">MyPay</a><br>
+  Full-stack Engineer (JS) • AI/ML Enthusiast</strong><br>Currently working as FE Team Lead @ <a href="https://thebigsolutions.com/">The Big Solutions</a> / <a href="https://mypay.com.np/">MyPay</a><br>Open to part-time and freelance engagements. Let’s work together to create something exceptional. 🙌
 <br><br>
-  · <a href="https://drive.google.com/file/d/1eRxlrHlz19RXMuzFSNEDq9_6h7qfDSyU/view?usp=sharing">Resume</a>
- · 
-<br>
-<a href="https://play.google.com/store/apps/dev?id=4898227705286580329">Android developer @Trilokia Inc.</a>
-| <a href="https://gdg.community.dev/gdg-jammu/">Community organizer @GDG Jammu</a>
-<br>
- <p align="center">
- <a href="https://twitter.com/imtrilokia"><img src="https://img.shields.io/twitter/follow/imtrilokia?style=social" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="https://www.linkedin.com/in/abhinandantrilokia/"><img src="https://img.shields.io/badge/-Abhinandan%20Trilokia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps://www.linkedin.com/in/abhinandantrilokia/" /></a>&nbsp;&nbsp;&nbsp;&nbsp
-   <a href="https://www.reddit.com/user/Trilokia"><img src="https://img.shields.io/reddit/user-karma/combined/trilokia?style=style=social" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>·</b> <a href="https://drive.google.com/file/d/1eRxlrHlz19RXMuzFSNEDq9_6h7qfDSyU/view?usp=sharing">View My Resume</a>
+ <b>·</b> 
+
 
 <br>
 <br>
@@ -72,7 +65,6 @@
 
 ###
 
-<br>
 </p>
 
 
