@@ -2,11 +2,12 @@
 <p align="center"><strong>
   Full-stack Engineer (JS) • AI/ML Enthusiast</strong><br>Currently working as FE Team Lead @ <a href="https://thebigsolutions.com/">The Big Solutions</a> / <a href="https://mypay.com.np/">MyPay</a><br>Open to part-time and freelance engagements. Let’s work together to create something exceptional. 🙌
 <br><br>
-  <b>·</b> <a href="https://drive.google.com/file/d/1eRxlrHlz19RXMuzFSNEDq9_6h7qfDSyU/view?usp=sharing">View My Resume</a>
+  <b>·</b> <a href="">View My Resume</a>
  <b>·</b> 
 
 
 <br>
+<a href="">@portfolio</a>  |  <a href="">@instagram</a>  |  <a href="">@medium</a>
 <br>
 
 
@@ -29,8 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="23" alt="css logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="23" alt="eslint logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="23" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="23" alt="git logo"  />
   <img width="12" />
